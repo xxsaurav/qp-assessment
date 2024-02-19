@@ -1,0 +1,31 @@
+{
+    "editor.fontSize": 13,
+    "editor.tabSize": 2,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+      "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+      "editor.formatOnSave": true
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "eslint.codeAction.showDocumentation": {
+      "enable": true
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.startupEditor": "none",
+    "[python]": {
+      "editor.formatOnType": true
+    },
+    "git.autofetch": true,
+    "editor.accessibilitySupport": "off",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+      "*.css": "tailwindcss"
+    }
+  }
+  
